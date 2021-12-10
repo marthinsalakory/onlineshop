@@ -10,7 +10,7 @@
             <table class="table">
                 <tbody>
                     <tr>
-                        <td colspan="2"><img width="60px" height="60px" src="assets/img/mainan.jpg" alt=""></td>
+                        <td colspan="2"><img width="60px" height="60px" src="assets/img/produk/<?= $pb->gambar; ?>" alt=""></td>
                     </tr>
                     <tr>
                         <th style="text-align: right;">Status</th>
